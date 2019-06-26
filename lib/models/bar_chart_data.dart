@@ -10,4 +10,5 @@ var barChatData = <BarData>[
   BarData(25, 'Withdrawals'),
   BarData(10, 'Subscription'),
   BarData(45, 'Transfers'),
+  BarData(45, 'Profits'),
 ];
