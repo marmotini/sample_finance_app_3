@@ -1,6 +1,8 @@
 # sample_finance_app_3
 
-A new Flutter project.
+First app using flutter framework. 
+
+Here is one of the screenshots ![wallets stats screen](screenshots/first%20screen%20pass.PNG)
 
 ## Getting Started
 

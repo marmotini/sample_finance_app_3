@@ -119,10 +119,8 @@ class BarCol extends StatelessWidget {
 
     return Column(
       children: <Widget>[
-        Opacity(
-          opacity: .18,
-          child: BarFilled(text: data.label, size: h, color: Colors.grey),
-        ),
+        BarFilled(
+            text: data.label, size: h, color: Colors.grey.withOpacity(.18)),
         BarFilled(text: "${data.size}%", size: height - h, color: themeColor),
       ],
     );
