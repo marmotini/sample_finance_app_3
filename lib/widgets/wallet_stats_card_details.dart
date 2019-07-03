@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:sample_finance_app_3/style.dart';
 
 class WalletStatsCardDetails extends StatelessWidget {

@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class ExpenseCard extends StatelessWidget {
   final String name;

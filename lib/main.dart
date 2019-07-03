@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:sample_finance_app_3/activity_screen.dart';
+import 'package:flutter_web/material.dart';
 import 'package:sample_finance_app_3/stats_screen.dart';
 import 'package:sample_finance_app_3/wallet_stats_screen.dart';
 
